@@ -1,0 +1,10 @@
+---
+apiVersion: "v1"
+name: "gohello"
+version: "0.0.1"
+description: "This is a Helm chart used for testing. It does nothing."
+keywords:
+  - "test"
+  - "golang"
+sources:
+  - "https://github.com/puppetlabs/gohello"
