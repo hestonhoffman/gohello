@@ -1,7 +1,7 @@
 ---
 apiVersion: "v1"
 name: "gohello"
-version: "0.0.47"
+version: "0.0.48"
 description: "This is a Helm chart used for testing. It does nothing. Nothing at all."
 keywords:
   - "test"
